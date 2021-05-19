@@ -5,7 +5,7 @@ Once again, thanks for visiting LeoFNFMods!
 
 Original FNF 
 
-![FNF Orignial Link HTML5] (https://leofnf.github.io/OriginalFNF-LeoFNF/ "Thanks so much to 28klotlucas2 for making this on HTML5!")
+!(https://leofnf.github.io/OriginalFNF-LeoFNF/ "Thanks so much to 28klotlucas2 for making this on HTML5!")
 
 Mods That I made
 
